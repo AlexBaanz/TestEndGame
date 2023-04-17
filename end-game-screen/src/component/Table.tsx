@@ -22,7 +22,7 @@ export interface IData {
 
 const columns: ColumnsType<IData> = [
     {
-        title: 'Name',
+        title: 'Nickname',
         dataIndex: 'name',
     },
     {
@@ -30,7 +30,7 @@ const columns: ColumnsType<IData> = [
         dataIndex: 'statusLive'
     },
     {
-        title: 'Points',
+        title: 'Scores',
         dataIndex: 'points',
         defaultSortOrder: 'descend'
     }
