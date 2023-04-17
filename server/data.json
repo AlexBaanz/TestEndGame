@@ -1,0 +1,1006 @@
+{
+  "win": [
+    {
+      "key": "643d5c6335d12094e538eb28",
+      "name": "Cabrera Delgado",
+      "points": 89,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 51,
+        "deaths": 30
+      }
+    },
+    {
+      "key": "643d5c633f788b9beff2f81e",
+      "name": "Cole Lamb",
+      "points": 44,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 94,
+        "deaths": 86
+      }
+    },
+    {
+      "key": "643d5c6336a26767f3a09db3",
+      "name": "Bridget Huber",
+      "points": 54,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 13,
+        "deaths": 49
+      }
+    },
+    {
+      "key": "643d5c6370bff901c6091459",
+      "name": "Dawson Harmon",
+      "points": 13,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 68,
+        "deaths": 45
+      }
+    },
+    {
+      "key": "643d5c63a5294afeab6494ae",
+      "name": "Saundra Malone",
+      "points": 32,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 90,
+        "deaths": 59
+      }
+    },
+    {
+      "key": "643d5c6359891c806188c3e8",
+      "name": "Howell Welch",
+      "points": 91,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 93,
+        "deaths": 21
+      }
+    },
+    {
+      "key": "643d5c63041a7579e5e89767",
+      "name": "Rosalinda Herrera",
+      "points": 99,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 75,
+        "deaths": 55
+      }
+    },
+    {
+      "key": "643d5c6305eeb8e60122fd50",
+      "name": "Whitney Britt",
+      "points": 72,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 29,
+        "deaths": 41
+      }
+    },
+    {
+      "key": "643d5c6347a744f389e1d1d7",
+      "name": "Crosby Hancock",
+      "points": 27,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 76,
+        "deaths": 26
+      }
+    },
+    {
+      "key": "643d5c63aedd946c8bbefb5f",
+      "name": "Walls Holcomb",
+      "points": 15,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 55,
+        "deaths": 78
+      }
+    },
+    {
+      "key": "643d5c639d27cc908780df82",
+      "name": "Erma Wilkerson",
+      "points": 25,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 98,
+        "deaths": 51
+      }
+    },
+    {
+      "key": "643d5c633e8f62b01f6f358d",
+      "name": "Berg Gates",
+      "points": 71,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 44,
+        "deaths": 95
+      }
+    },
+    {
+      "key": "643d5c63f3add0b07fdffc40",
+      "name": "Keller Russell",
+      "points": 31,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 72,
+        "deaths": 61
+      }
+    },
+    {
+      "key": "643d5c637ad8877d962605b6",
+      "name": "Clarke Schroeder",
+      "points": 59,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 92,
+        "deaths": 55
+      }
+    },
+    {
+      "key": "643d5c6381c6fed925fcf5e9",
+      "name": "Minnie Howe",
+      "points": 54,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 7,
+        "deaths": 50
+      }
+    },
+    {
+      "key": "643d5c639327ec6fa7af6667",
+      "name": "Ramirez Alford",
+      "points": 75,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 1,
+        "deaths": 73
+      }
+    },
+    {
+      "key": "643d5c633267d41c35b70420",
+      "name": "Natasha Church",
+      "points": 41,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 98,
+        "deaths": 17
+      }
+    },
+    {
+      "key": "643d5c634a3255a4b6f564b2",
+      "name": "Stone Watkins",
+      "points": 52,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 58,
+        "deaths": 61
+      }
+    },
+    {
+      "key": "643d5c63da10f9777a69a502",
+      "name": "Nadine Simmons",
+      "points": 37,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 22,
+        "deaths": 72
+      }
+    },
+    {
+      "key": "643d5c632257f8a8d1f91dcc",
+      "name": "Carissa Rivas",
+      "points": 27,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 5,
+        "deaths": 11
+      }
+    },
+    {
+      "key": "643d5c63d81f3db881927e13",
+      "name": "Pope Duffy",
+      "points": 28,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 60,
+        "deaths": 28
+      }
+    },
+    {
+      "key": "643d5c635b82abcafc0287d5",
+      "name": "Eula Hines",
+      "points": 71,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 21,
+        "deaths": 99
+      }
+    },
+    {
+      "key": "643d5c631f9e616f2f5697ec",
+      "name": "Delaney Stanton",
+      "points": 72,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 50,
+        "deaths": 88
+      }
+    },
+    {
+      "key": "643d5c6385c121956fb90d56",
+      "name": "Peters Weeks",
+      "points": 62,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 4,
+        "deaths": 17
+      }
+    },
+    {
+      "key": "643d5c63d1ebc0f05d442292",
+      "name": "Prince Hinton",
+      "points": 13,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 88,
+        "deaths": 25
+      }
+    },
+    {
+      "key": "643d5c6317d61c42efd91933",
+      "name": "Haley Burnett",
+      "points": 39,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 14,
+        "deaths": 98
+      }
+    },
+    {
+      "key": "643d5c63eadd684f819db981",
+      "name": "Leanna York",
+      "points": 80,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 34,
+        "deaths": 76
+      }
+    },
+    {
+      "key": "643d5c63ccb42894c485cda6",
+      "name": "Austin Davidson",
+      "points": 20,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 43,
+        "deaths": 86
+      }
+    },
+    {
+      "key": "643d5c63579a75ab6b2211eb",
+      "name": "Leila Barlow",
+      "points": 10,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 86,
+        "deaths": 20
+      }
+    },
+    {
+      "key": "643d5c63db4c823b8013fe26",
+      "name": "Leonard Yang",
+      "points": 36,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 43,
+        "deaths": 1
+      }
+    },
+    {
+      "key": "643d5c63dca6e9474475d8a5",
+      "name": "Christy Bray",
+      "points": 88,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 2,
+        "deaths": 58
+      }
+    },
+    {
+      "key": "643d5c633b6dcfafb33d5f6e",
+      "name": "Angelita Delacruz",
+      "points": 37,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 29,
+        "deaths": 36
+      }
+    },
+    {
+      "key": "643d5c6336af6eab07028d47",
+      "name": "Cleo Anderson",
+      "points": 3,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 40,
+        "deaths": 12
+      }
+    },
+    {
+      "key": "643d5c63c52539676121f940",
+      "name": "Klein Albert",
+      "points": 50,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 76,
+        "deaths": 19
+      }
+    },
+    {
+      "key": "643d5c63565665234f43c77a",
+      "name": "Myers Hoover",
+      "points": 29,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 53,
+        "deaths": 22
+      }
+    },
+    {
+      "key": "643d5c630e5e960bd12f18fd",
+      "name": "Morris Parrish",
+      "points": 55,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 69,
+        "deaths": 78
+      }
+    },
+    {
+      "key": "643d5c63ab578d2fe53e1db0",
+      "name": "Ortega Gill",
+      "points": 40,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 99,
+        "deaths": 65
+      }
+    },
+    {
+      "key": "643d5c634151fd5964c5505e",
+      "name": "Daphne Hardin",
+      "points": 2,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 23,
+        "deaths": 5
+      }
+    },
+    {
+      "key": "643d5c63f6e9c848018ddee3",
+      "name": "Stephenson Crawford",
+      "points": 1,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 38,
+        "deaths": 44
+      }
+    },
+    {
+      "key": "643d5c63a44fbf1ce44e4ec9",
+      "name": "Christensen Miranda",
+      "points": 14,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 39,
+        "deaths": 80
+      }
+    },
+    {
+      "key": "643d5c63d32239be4d2948b4",
+      "name": "Strickland Kaufman",
+      "points": 72,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 74,
+        "deaths": 9
+      }
+    },
+    {
+      "key": "643d5c63a4860746999022ee",
+      "name": "Rivera Hall",
+      "points": 29,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 26,
+        "deaths": 46
+      }
+    },
+    {
+      "key": "643d5c63d418eea154e38855",
+      "name": "Hewitt Snider",
+      "points": 98,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 50,
+        "deaths": 13
+      }
+    },
+    {
+      "key": "643d5c636cf3ab6aced4bcbb",
+      "name": "Jeanine Craig",
+      "points": 93,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 18,
+        "deaths": 92
+      }
+    },
+    {
+      "key": "643d5c63cc85e919108a508c",
+      "name": "Helena Pittman",
+      "points": 74,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 9,
+        "deaths": 6
+      }
+    },
+    {
+      "key": "643d5c6306b9cdd07be3e223",
+      "name": "Casey Cantrell",
+      "points": 64,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 98,
+        "deaths": 38
+      }
+    },
+    {
+      "key": "643d5c63c944825d9c27eef0",
+      "name": "Farley Keith",
+      "points": 71,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 94,
+        "deaths": 60
+      }
+    },
+    {
+      "key": "643d5c63db7e012fb319cb8c",
+      "name": "Imelda Nicholson",
+      "points": 52,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 78,
+        "deaths": 94
+      }
+    },
+    {
+      "key": "643d5c6305a6661b965724de",
+      "name": "Cervantes Mueller",
+      "points": 14,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 66,
+        "deaths": 21
+      }
+    },
+    {
+      "key": "643d5c6359662772a29952f4",
+      "name": "Cook Murray",
+      "points": 6,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 52,
+        "deaths": 26
+      }
+    }
+  ],
+  "lose": [
+    {
+      "key": "643d5c96bda685a1537aeba5",
+      "name": "Jimmie Spencer",
+      "points": 56,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 16,
+        "deaths": 84
+      }
+    },
+    {
+      "key": "643d5c966de55236421cccff",
+      "name": "Dawn Green",
+      "points": 23,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 4,
+        "deaths": 83
+      }
+    },
+    {
+      "key": "643d5c96f4cab0fabdc3624c",
+      "name": "Minerva Christian",
+      "points": 22,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 48,
+        "deaths": 25
+      }
+    },
+    {
+      "key": "643d5c96da58a7177ed1bddf",
+      "name": "Leonard Sullivan",
+      "points": 58,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 39,
+        "deaths": 40
+      }
+    },
+    {
+      "key": "643d5c9626265cbadb85e4c4",
+      "name": "Rhonda Webb",
+      "points": 30,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 92,
+        "deaths": 49
+      }
+    },
+    {
+      "key": "643d5c96a4fb3f139fb5fe38",
+      "name": "Lelia Wilcox",
+      "points": 74,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 47,
+        "deaths": 63
+      }
+    },
+    {
+      "key": "643d5c9697a1af614c3f0f23",
+      "name": "Cantrell Walsh",
+      "points": 8,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 62,
+        "deaths": 9
+      }
+    },
+    {
+      "key": "643d5c968af05bfb210a69eb",
+      "name": "Jillian Parks",
+      "points": 29,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 99,
+        "deaths": 46
+      }
+    },
+    {
+      "key": "643d5c966edd2c665badc5d6",
+      "name": "Lauren Franco",
+      "points": 59,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 31,
+        "deaths": 70
+      }
+    },
+    {
+      "key": "643d5c96568c83562c4206e2",
+      "name": "Ayers Boyer",
+      "points": 46,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 79,
+        "deaths": 10
+      }
+    },
+    {
+      "key": "643d5c96ccf43a62fbe5bdb0",
+      "name": "Alta Greene",
+      "points": 7,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 48,
+        "deaths": 67
+      }
+    },
+    {
+      "key": "643d5c96e90bdc3b833b3479",
+      "name": "Sallie Bauer",
+      "points": 20,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 31,
+        "deaths": 28
+      }
+    },
+    {
+      "key": "643d5c9644e3b5c8a64c8504",
+      "name": "Imogene Abbott",
+      "points": 60,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 83,
+        "deaths": 93
+      }
+    },
+    {
+      "key": "643d5c967528316107d925ef",
+      "name": "Kline Santiago",
+      "points": 94,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 81,
+        "deaths": 34
+      }
+    },
+    {
+      "key": "643d5c9647aedece6a099143",
+      "name": "Elsie Hall",
+      "points": 78,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 85,
+        "deaths": 81
+      }
+    },
+    {
+      "key": "643d5c961b7c3650b1d12c6b",
+      "name": "Kelley Atkinson",
+      "points": 92,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 85,
+        "deaths": 52
+      }
+    },
+    {
+      "key": "643d5c960219650c4ae113ef",
+      "name": "Gladys Perkins",
+      "points": 89,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 21,
+        "deaths": 27
+      }
+    },
+    {
+      "key": "643d5c9678b306b158ea6170",
+      "name": "Hester Delgado",
+      "points": 77,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 46,
+        "deaths": 60
+      }
+    },
+    {
+      "key": "643d5c96a1849de10df3ee1f",
+      "name": "Roberson Mccarty",
+      "points": 98,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 99,
+        "deaths": 49
+      }
+    },
+    {
+      "key": "643d5c960f87c6ff2334c225",
+      "name": "Burks Hays",
+      "points": 17,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 97,
+        "deaths": 84
+      }
+    },
+    {
+      "key": "643d5c96063150b7e152b77f",
+      "name": "Christine Lott",
+      "points": 66,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 59,
+        "deaths": 41
+      }
+    },
+    {
+      "key": "643d5c96d36f95ed22a474b8",
+      "name": "Abigail Wilkerson",
+      "points": 85,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 74,
+        "deaths": 79
+      }
+    },
+    {
+      "key": "643d5c963ef824fe1ae68fa5",
+      "name": "Anthony Keith",
+      "points": 60,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 34,
+        "deaths": 10
+      }
+    },
+    {
+      "key": "643d5c9628778ec6b34fe210",
+      "name": "Medina Hopkins",
+      "points": 29,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 89,
+        "deaths": 28
+      }
+    },
+    {
+      "key": "643d5c96c4166d868ca60b2b",
+      "name": "Terry Pennington",
+      "points": 91,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 75,
+        "deaths": 4
+      }
+    },
+    {
+      "key": "643d5c968db9377bd1749fae",
+      "name": "Whitney Chaney",
+      "points": 19,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 18,
+        "deaths": 8
+      }
+    },
+    {
+      "key": "643d5c96e9b0ff22c5eb5bb2",
+      "name": "Jackie Cross",
+      "points": 64,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 69,
+        "deaths": 28
+      }
+    },
+    {
+      "key": "643d5c961b699e71c4f29187",
+      "name": "Miranda Rhodes",
+      "points": 73,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 18,
+        "deaths": 20
+      }
+    },
+    {
+      "key": "643d5c961422c90024550d7b",
+      "name": "Fannie Sanders",
+      "points": 93,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 37,
+        "deaths": 53
+      }
+    },
+    {
+      "key": "643d5c96d5a5ba03d8142a9a",
+      "name": "Patterson Haynes",
+      "points": 12,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 55,
+        "deaths": 11
+      }
+    },
+    {
+      "key": "643d5c965a19185268d728e4",
+      "name": "Willa Little",
+      "points": 10,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 22,
+        "deaths": 70
+      }
+    },
+    {
+      "key": "643d5c96759ea94fbdad44c6",
+      "name": "Cassandra Henry",
+      "points": 1,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 100,
+        "deaths": 45
+      }
+    },
+    {
+      "key": "643d5c96e49880f4eb3fb07c",
+      "name": "Burt Long",
+      "points": 86,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 25,
+        "deaths": 97
+      }
+    },
+    {
+      "key": "643d5c96f5a2be97c3301157",
+      "name": "Butler Hoover",
+      "points": 1,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 94,
+        "deaths": 87
+      }
+    },
+    {
+      "key": "643d5c96135f6f911e65444a",
+      "name": "Lucinda Cobb",
+      "points": 75,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 61,
+        "deaths": 38
+      }
+    },
+    {
+      "key": "643d5c9632b72b8ce37b11d6",
+      "name": "Francine Walters",
+      "points": 79,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 41,
+        "deaths": 79
+      }
+    },
+    {
+      "key": "643d5c961684d2e50b70fa15",
+      "name": "Ruby Morris",
+      "points": 69,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 93,
+        "deaths": 15
+      }
+    },
+    {
+      "key": "643d5c968ba25c230bc88806",
+      "name": "Rhoda Garcia",
+      "points": 45,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 11,
+        "deaths": 40
+      }
+    },
+    {
+      "key": "643d5c96cea5641a56b8447e",
+      "name": "Schroeder Arnold",
+      "points": 6,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 98,
+        "deaths": 30
+      }
+    },
+    {
+      "key": "643d5c9605dfbe53860e4eeb",
+      "name": "Marquez Herring",
+      "points": 95,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 61,
+        "deaths": 52
+      }
+    },
+    {
+      "key": "643d5c96ee9ec426d07a65f9",
+      "name": "Reynolds Hancock",
+      "points": 77,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 17,
+        "deaths": 96
+      }
+    },
+    {
+      "key": "643d5c9604349dc42373173c",
+      "name": "Sweet Cohen",
+      "points": 50,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 98,
+        "deaths": 46
+      }
+    },
+    {
+      "key": "643d5c960213dcdac45893b7",
+      "name": "Celia Gross",
+      "points": 71,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 60,
+        "deaths": 54
+      }
+    },
+    {
+      "key": "643d5c96d325d44200189b57",
+      "name": "Morgan Barrett",
+      "points": 60,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 96,
+        "deaths": 74
+      }
+    },
+    {
+      "key": "643d5c96cdde52cee64928ee",
+      "name": "Justine Campos",
+      "points": 73,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 20,
+        "deaths": 14
+      }
+    },
+    {
+      "key": "643d5c965afcaa2fc4e1e996",
+      "name": "Goodman Black",
+      "points": 31,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 93,
+        "deaths": 39
+      }
+    },
+    {
+      "key": "643d5c96000d93ca8203b0c8",
+      "name": "Greer Robertson",
+      "points": 21,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 69,
+        "deaths": 78
+      }
+    },
+    {
+      "key": "643d5c962068c871cd36a2b6",
+      "name": "Elma Gould",
+      "points": 23,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 12,
+        "deaths": 10
+      }
+    },
+    {
+      "key": "643d5c963af288b36a4038ac",
+      "name": "Chapman Frederick",
+      "points": 54,
+      "statusLive": "Live",
+      "tooltipData": {
+        "kills": 81,
+        "deaths": 74
+      }
+    },
+    {
+      "key": "643d5c96613d958a862968a9",
+      "name": "Martha Finch",
+      "points": 34,
+      "statusLive": "Dead",
+      "tooltipData": {
+        "kills": 93,
+        "deaths": 70
+      }
+    }
+  ]
+}
